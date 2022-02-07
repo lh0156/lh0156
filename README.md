@@ -17,7 +17,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Study-All-File&theme=react&cache_seconds=1800)](https://github.com/lh0156/Study-All-File)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=question&theme=react&cache_seconds=1800)](https://github.com/lh0156/question)
 
-
+### ⭐ Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lh0156&show_icons=true&theme=react&hide=stars)](https://github.com/lh0156)
+  
 ### 🔨 Stack
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
@@ -38,8 +40,7 @@
 <img src="https://img.shields.io/badge/Teams-6264A7?style=flat-square&logo=MicrosoftTeams&logoColor=white">
 
 
-### ⭐ Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lh0156&show_icons=true&theme=react&hide=stars)](https://github.com/lh0156)
+
 
 
 ### 📊 Used Language Ratio
