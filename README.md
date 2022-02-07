@@ -52,9 +52,7 @@
 <a href="mailto:lh0156@naver.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
 <a href="https://www.notion.so/98c8e39e38c84f6fbc51e2fcd3cd8934" target="_blank"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimdeagle&count_bg=%2379C83D&title_bg=%23444444&icon=opsgenie.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/lh0156)
   
-
 ### 🔎 References   
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats)   
 [Shields.io](https://shields.io/)   
