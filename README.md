@@ -16,7 +16,6 @@
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
 
 
 ### ⚙️ Cowork
@@ -42,10 +41,10 @@
 
 
 ### 📌 Practice Repository
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimdeagle&repo=spring-boot-board-practice&theme=react&cache_seconds=1800)](https://github.com/kimdeagle/spring-boot-board-practice)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimdeagle&repo=vue-basic-study&theme=react&cache_seconds=1800)](https://github.com/kimdeagle/vue-basic-study)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimdeagle&repo=vue-board&theme=react&cache_seconds=1800)](https://github.com/kimdeagle/vue-board)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimdeagle&repo=spring-board-practice&theme=react&cache_seconds=1800)](https://github.com/kimdeagle/spring-board-practice)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Algorithm-Team&theme=react&cache_seconds=1800)](https://github.com/lh0156/Algorithm-Team)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Study-Server-File&theme=react&cache_seconds=1800)](https://github.com/lh0156/Study-Server-File)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Study-All-File&theme=react&cache_seconds=1800)](https://github.com/lh0156/Study-All-File)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=question&theme=react&cache_seconds=1800)](https://github.com/lh0156/question)
 
 
 ### 🔔 Contact
