@@ -3,6 +3,19 @@
 
 # 🕺 Yunseop Eom 🕺
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimdeagle&count_bg=%2379C83D&title_bg=%23444444&icon=opsgenie.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/lh0156)
+  
+### 📍 SIST Project Repository
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Project-Web-Team-deuggeunCareDiary&theme=react&cache_seconds=1800)](https://github.com/lh0156/Project-Web-Team-deuggeunCareDiary)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Project-Oracle-Team-Academy-ManageMent&theme=react&cache_seconds=1800)](https://github.com/lh0156/Project-Oracle-Team-Academy-ManageMent)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Project-Java-Toy-KeywordMatchingStock&theme=react&cache_seconds=1800)](https://github.com/lh0156/Project-Java-Toy-KeywordMatchingStock)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Project-Java-Team-GlassesHouse&theme=react&cache_seconds=1800)](https://github.com/lh0156/Project-Java-Team-GlassesHouse)
+
+
+### 📌 Practice Repository
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Algorithm-Team&theme=react&cache_seconds=1800)](https://github.com/lh0156/Algorithm-Team)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Study-Server-File&theme=react&cache_seconds=1800)](https://github.com/lh0156/Study-Server-File)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Study-All-File&theme=react&cache_seconds=1800)](https://github.com/lh0156/Study-All-File)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=question&theme=react&cache_seconds=1800)](https://github.com/lh0156/question)
 
 
 ### 🔨 Stack
@@ -33,18 +46,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lh0156&theme=react&exclude_repo=class-source,lh0156)](https://github.com/lh0156)
 
 
-### 📍 SIST Project Repository
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Project-Web-Team-deuggeunCareDiary&theme=react&cache_seconds=1800)](https://github.com/lh0156/Project-Web-Team-deuggeunCareDiary)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Project-Oracle-Team-Academy-ManageMent&theme=react&cache_seconds=1800)](https://github.com/lh0156/Project-Oracle-Team-Academy-ManageMent)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Project-Java-Toy-KeywordMatchingStock&theme=react&cache_seconds=1800)](https://github.com/lh0156/Project-Java-Toy-KeywordMatchingStock)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Project-Java-Team-GlassesHouse&theme=react&cache_seconds=1800)](https://github.com/lh0156/Project-Java-Team-GlassesHouse)
-
-
-### 📌 Practice Repository
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Algorithm-Team&theme=react&cache_seconds=1800)](https://github.com/lh0156/Algorithm-Team)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Study-Server-File&theme=react&cache_seconds=1800)](https://github.com/lh0156/Study-Server-File)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Study-All-File&theme=react&cache_seconds=1800)](https://github.com/lh0156/Study-All-File)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=question&theme=react&cache_seconds=1800)](https://github.com/lh0156/question)
 
 
 ### 🔔 Contact
