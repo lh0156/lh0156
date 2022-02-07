@@ -28,11 +28,11 @@
 
 
 ### ⭐ Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdeagle&show_icons=true&theme=react&hide=stars)](https://github.com/kimdeagle)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lh0156&show_icons=true&theme=react&hide=stars)](https://github.com/lh0156)
 
 
 ### 📊 Used Language Ratio
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdeagle&theme=react&exclude_repo=class-source,kimdeagle)](https://github.com/lh0156)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lh0156&theme=react&exclude_repo=class-source,lh0156)](https://github.com/lh0156)
 
 
 ### 📍 SIST Project Repository
