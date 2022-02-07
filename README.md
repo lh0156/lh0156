@@ -2,7 +2,7 @@
 
 
 # 🕺 Yunseop Eom 🕺
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimdeagle&count_bg=%2379C83D&title_bg=%23444444&icon=opsgenie.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/lh0156)
+
   
 ### 📍 SIST Project Repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Project-Web-Team-deuggeunCareDiary&theme=react&cache_seconds=1800)](https://github.com/lh0156/Project-Web-Team-deuggeunCareDiary)
@@ -61,7 +61,8 @@
 [Simple Icons](https://simpleicons.org/)   
 [emojipedia](https://emojipedia.org/)
 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimdeagle&count_bg=%2379C83D&title_bg=%23444444&icon=opsgenie.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/lh0156)
+  
 </div>
 
 
