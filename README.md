@@ -1,8 +1,7 @@
 <div align="center">
 
 
-# 🕺 Yunseop Eom 🕺
-
+# 🙋‍♂️ Yunseop Eom 🙋‍♂️
   
 ### 📍 SIST Project Repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Project-Web-Team-deuggeunCareDiary&theme=react&cache_seconds=1800)](https://github.com/lh0156/Project-Web-Team-deuggeunCareDiary)
