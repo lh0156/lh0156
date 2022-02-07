@@ -15,7 +15,6 @@
 <br>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
 
@@ -50,8 +49,8 @@
 
 
 ### 🔔 Contact
-<a href="mailto:juhyeok.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
-<a href="http://kimdeagle.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+<a href="mailto:lh0156@naver.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
+<a href="https://www.notion.so/98c8e39e38c84f6fbc51e2fcd3cd8934" target="_blank"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 
 
 
