@@ -6,7 +6,7 @@
   ### ⭐ Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lh0156&show_icons=true&theme=react&hide=stars)](https://github.com/lh0156)
   
-### 📍 SIST Project Repository
+### 📍 Project Repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Project-Web-Team-deuggeunCareDiary&theme=react&cache_seconds=1800)](https://github.com/lh0156/Project-Web-Team-deuggeunCareDiary)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Project-Oracle-Team-Academy-ManageMent&theme=react&cache_seconds=1800)](https://github.com/lh0156/Project-Oracle-Team-Academy-ManageMent)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Project-Java-Toy-KeywordMatchingStock&theme=react&cache_seconds=1800)](https://github.com/lh0156/Project-Java-Toy-KeywordMatchingStock)
