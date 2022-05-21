@@ -16,7 +16,6 @@
 ### 📌 Practice Repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Algorithm-Team&theme=react&cache_seconds=1800)](https://github.com/lh0156/Algorithm-Team)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Study-Server-File&theme=react&cache_seconds=1800)](https://github.com/lh0156/Study-Server-File)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Study-All-File&theme=react&cache_seconds=1800)](https://github.com/lh0156/Study-All-File)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=question&theme=react&cache_seconds=1800)](https://github.com/lh0156/question)
 
 
