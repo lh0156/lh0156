@@ -5,13 +5,6 @@
   
   ### ⭐ Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lh0156&show_icons=true&theme=react&hide=stars)](https://github.com/lh0156)
-  
-### 📍 Project Repository
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Project-Web-Team-deuggeunCareDiary&theme=react&cache_seconds=1800)](https://github.com/lh0156/Project-Web-Team-deuggeunCareDiary)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Project-Oracle-Team-Academy-ManageMent&theme=react&cache_seconds=1800)](https://github.com/lh0156/Project-Oracle-Team-Academy-ManageMent)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Project-Java-Toy-KeywordMatchingStock&theme=react&cache_seconds=1800)](https://github.com/lh0156/Project-Java-Toy-KeywordMatchingStock)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Project-Java-Team-GlassesHouse&theme=react&cache_seconds=1800)](https://github.com/lh0156/Project-Java-Team-GlassesHouse)
-
 
 ### 📌 Study Repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Algorithm-Team&theme=react&cache_seconds=1800)](https://github.com/lh0156/Algorithm-Team)
