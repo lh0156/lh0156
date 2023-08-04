@@ -6,11 +6,6 @@
   ### ⭐ Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lh0156&show_icons=true&theme=react&hide=stars)](https://github.com/lh0156)
 
-### 📌 Study Repository
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Algorithm-Team&theme=react&cache_seconds=1800)](https://github.com/lh0156/Algorithm-Team)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Study_Spring&theme=react&cache_seconds=1800)](https://github.com/lh0156/Study_Spring)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=question&theme=react&cache_seconds=1800)](https://github.com/lh0156/question)
-
   
 ### 🔨 Stack
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
