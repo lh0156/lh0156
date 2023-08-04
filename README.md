@@ -1,7 +1,7 @@
 <div align="center">
- ㅇ
-&nbsp;ㅇ
-&nbsp;&nbsp;ㅇ
+ ㅇ<br>
+&nbsp;ㅇ<br>
+&nbsp;&nbsp;ㅇ<br>
 # 🙋‍♂️ Yunseop Eom 🙋‍♂️
   
   ### ⭐ Stats
