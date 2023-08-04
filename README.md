@@ -1,10 +1,6 @@
- ㅇ<br>
-&nbsp;ㅇ
 
-<div align="center"><br>
- ㅇ<br>
-&nbsp;ㅇ<br>
-&nbsp;&nbsp;ㅇ<br>
+<div align="center">
+
 # 🙋‍♂️ Yunseop Eom 🙋‍♂️
   
   ### ⭐ Stats
