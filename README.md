@@ -60,13 +60,5 @@
 <a href="https://www.notion.so/98c8e39e38c84f6fbc51e2fcd3cd8934" target="_blank"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 
   
-### 🔎 References   
-[anuraghazra](https://github.com/anuraghazra/github-readme-stats)   
-[Shields.io](https://shields.io/)   
-[Simple Icons](https://simpleicons.org/)   
-[emojipedia](https://emojipedia.org/)
-
-
-  
 </div>
 
